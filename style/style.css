@@ -44,6 +44,7 @@ main{
     flex-direction: row;
     flex-wrap: wrap;
     font-family: 'Raleway', sans-serif;
+    width: 1160px;
 }
 #element-1{
     text-align: center;
