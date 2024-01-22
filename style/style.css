@@ -54,7 +54,6 @@ main{
     padding-bottom: 3px;
     border-bottom: 2px solid green;
 }
-
 #Element-2{
     background-color: #782221;
 }
@@ -69,14 +68,12 @@ main{
     border-left-width: 10px ;
     border-left-style: solid;
     border-color: #782221;
-
 }
 #Element-5:hover{
     border-right-style: solid;
     border-color: #782221;
     border-right-width: 10px ;
 }
-
 #Element-6{
     text-indent: 100px;
     margin: 20px;
@@ -92,7 +89,6 @@ div{
 }
 i:hover{
     opacity: 0.5;
-    
 }
 footer{
     background-color: #782221;
